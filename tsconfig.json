@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"checkJs": true,
+		"module": "NodeNext",
+		"noEmit": true,
+		"target": "ESNext",
+		"strict": true,
+		"noImplicitAny": false,
+		"lib": ["ESNext"],
+		"moduleResolution": "NodeNext",
+		"types": ["node"]
+	},
+	"exclude": ["node_modules"],
+	"include": ["**/*.ts", "**/*.js", "**/*.mjs", "index.mjs"]
+}

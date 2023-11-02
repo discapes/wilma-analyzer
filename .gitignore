@@ -1,0 +1,4 @@
+node_modules
+out.txt
+data.json
+pnpm-lock.yaml
